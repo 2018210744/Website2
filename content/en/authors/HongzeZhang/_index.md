@@ -1,18 +1,18 @@
 ---
 # Display name
-title:Hongze Zhang  #（显示）
-weight: 3
+title: Kailin Tan  #（显示）
+weight: 2
 
 # Username (this should match the folder name)
 authors:
-- HongzeZhang   
+- Kailin Tan
 # 文件夹名 照片放在目录里 命名为avatar.jpg or avatar.png
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Student
+role: Ph.D Student
 
 # Organizations/Affiliations
 # organizations:
@@ -20,11 +20,12 @@ role: Student
 #   url: "https://www.bupt.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research include orthogonal time frequency space modulation and polar codes.
+bio: My research include semantic communications, source and channel cod- ing, and machine learning.
 
 interests:
-- orthogonal time frequency space modulation 
-- polar codes
+- semantic communications
+- source and channel coding
+- machine learning
 
 
 # education:
@@ -43,15 +44,15 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'yynan@bupt.edu.cn'  
+  link: 'mailto:tankailin@bupt.edu.cn'  
 # For a direct email link, use "mailto:test@example.org".  改成邮箱，不提供comment这3行
 
 # - icon: twitter
 #   icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?hl=en&user=f9s8H6UAAAAJ 
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?hl=en&user=f9s8H6UAAAAJ 
 # 没有的话也comment
 #- icon: github
 #  icon_pack: fab
@@ -69,6 +70,6 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 # ["Supervisor", "Researcjer", "Ph.D Student","Postgraduate Student","Visting Postgraduate Student","Research Intern","Visiting Scholar","Graduated"]  选一个
 user_groups:   
-- Postgraduate Student
+- Ph.D Student
 ---
-
+My research include semantic communications, source and channel cod- ing, and machine learning.
