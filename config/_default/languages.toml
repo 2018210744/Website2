@@ -13,7 +13,7 @@
   # Directions for visitors to locate you.
   # directions = "710, Scientific Research Building, Beijing University of Posts and Telecommunications"
   directions = "803, No. 3 Teaching Building, Beijing University of Posts and Telecommunications"
-  coordinates = {latitude = "39.961544", longitude = "116.358003"}
+  coordinates = {latitude = "50.961544", longitude = "116.358003"}
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
