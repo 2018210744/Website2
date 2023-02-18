@@ -12,7 +12,7 @@
   address = {street = "Xitucheng Road 10", city = "Haidian District", region = "Beijing", postcode = "100876", country = "China", country_code = "CN"}
   # Directions for visitors to locate you.
   directions = "710, Scientific Research Building, Beijing University of Posts and Telecommunications"
-  coordinates = {latitude = "39.964203", longitude = "116.358871"}
+  coordinates = {latitude = "39.962003", longitude = "116.355071"}
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
