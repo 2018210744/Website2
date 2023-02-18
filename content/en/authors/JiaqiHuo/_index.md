@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Jiaqi Huo  #（显示）
+title:Jiaqi Huo
 weight: 2
 
 # Username (this should match the folder name)
