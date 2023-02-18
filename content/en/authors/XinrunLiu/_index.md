@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Xinren Liu  #（显示）
+title: Xinrun Liu  #（显示）
 weight: 3
 
 # Username (this should match the folder name)
 authors:
-- XinrenLiu   
+- XinrunLiu   
 # 文件夹名 照片放在目录里 命名为avatar.jpg or avatar.png
 
 # Is this the primary user of the site?
