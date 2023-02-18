@@ -7,15 +7,10 @@
   name = "Home"
   url = "#hero"
   weight = 10
-
+  
 [[main]]
-  name = "Reseach Direction"
-  url = "#direction"
-  weight = 11
-
-[[main]]
-  name = "People"
-  url = "#people"
+  name = "News"
+  url = "#news"
   weight = 20
 
 [[main]]
@@ -23,36 +18,16 @@
   url = "#papers"
   weight = 30
 
-[[main]]
-  name = "Patents"
-  url = "#patents"
-  weight = 33
+#[[main]]
+#  name = "People Page"
+#  url = "/peoplepage"
+#  weight = 40
 
 [[main]]
-  name = "Courses"
-  url = "#courses"
-  weight = 34
-
-[[main]]
-  name = "Textbooks"
-  url = "#textbooks"
-  weight = 35
-
-[[main]]
-  name = "Monographs"
-  url = "#monographs"
-  weight = 37
-
-[[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
-  weight = 40
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
-
+  name = "People"
+  url = "#people"
+  weight = 50
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
