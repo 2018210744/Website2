@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student
+role: Ph.D Student
 
 # Organizations/Affiliations
 # organizations:
@@ -20,7 +20,7 @@ role: Student
 #   url: "https://www.bupt.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Coding Theory, Information Theory, and their Applications in Wireless Communications
+bio: My research interests include Coding Theory, Information Theory, and their Applications in Wireless Communications.
 
 interests:
 - Coding Theory
