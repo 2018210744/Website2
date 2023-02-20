@@ -41,6 +41,6 @@ url_video: ""
 slides: ""
 ---
 
-● <font face=consolas> <font face=fantasy color=red>**NEW**</font> **[2022-12]** *2 papers* accepted by <font color=#003399>**2023 WCNC**</font>.</font><br/>
+● <font face=consolas> <font face=fantasy color=red>**NEW**</font> **[2022-12]** *2 papers* accepted by <font color=#003399>**2023 WCNC**</font>: </font><br/>
   - [Variational Speech Waveform Compression to Catalyze Semantic Communications](/publication/variational-speech-waveform-compression-to-catalyze-semantic-communications/) <br/>
   
